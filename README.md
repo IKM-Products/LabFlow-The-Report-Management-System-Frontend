@@ -28,46 +28,6 @@
 * **Version Control:** Git & GitHub
 * **Development Environment:** Visual Studio Code
 
-## 📂 System Modules
-
-### 🔐 Authentication
-
-* User registration and login
-* Secure authentication
-* Role-based access control
-
-### 📊 Dashboard
-
-* System overview
-* Report statistics
-* User and department statistics
-* Recent activities
-
-### 📄 Laboratory Reports
-
-* Create and submit reports
-* View and update report information
-* Upload report documents
-* Track report status
-
-### 👨‍🎓 Students
-
-* Student information management
-* Report submission tracking
-* Academic and laboratory records
-
-### 👨‍🏫 Evaluators
-
-* Assign reports for evaluation
-* Review submitted reports
-* Manage evaluation information
-
-### 🏢 Departments
-
-* Create and manage departments
-* Organize students and laboratory activities
-* Manage department-related information
-
 ## 🔄 Workflow
 
 1. Users securely log into the system.
